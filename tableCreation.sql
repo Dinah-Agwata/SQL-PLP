@@ -14,3 +14,8 @@ VALUES
 ('Dinah Buyeke', 28, 'Female'),
 ('Dee Buyekee', 28, 'Female'),
 ('John Doe', 24, 'Male');
+
+--updating age of student
+UPDATE student
+SET age=20
+WHERE student_id=2

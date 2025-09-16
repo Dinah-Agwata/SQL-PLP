@@ -47,3 +47,4 @@ age (Integer)
 gender (String, maximum length of 10 characters)
 
 2. Insert at least 3 records into the student table. Each record should have a unique name, age, and gender.
+3. Write an SQL statement to update the age of the student with ID 2 to 20 in the student table.
